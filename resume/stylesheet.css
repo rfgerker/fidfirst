@@ -3,6 +3,12 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
+ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+   }
+
     .mainphoto {
       width: 25%;
       border-radius: 50%;
